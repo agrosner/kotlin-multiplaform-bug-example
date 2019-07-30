@@ -1,0 +1,20 @@
+{
+  "loading": {
+    "header": "Loading...",
+    "message": "Please wait",
+    "success_message": "See you soon!",
+    "success_title": "Thank you for waiting, {First Name}. You now owe {cost}."
+  },
+  "login": {
+    "body": "Please use your credentials",
+    "header": "Login",
+    "primary_cta": "continue",
+    "secondary_cta": "sign up"
+  },
+  "profile": {
+    "edit_cta": "edit",
+    "header": "My Profile",
+    "message": "Welcome, {Name}!",
+    "settings_cta": "settings"
+  }
+}

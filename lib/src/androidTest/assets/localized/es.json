@@ -1,0 +1,19 @@
+{
+  "loading": {
+    "header": "Cargando...",
+    "message": "por favor, espere un momento",
+    "success_message": "¡Te veo pronto!",
+    "success_title": "Gracias por esperar, {Nombre}. Ahora debes {cost}."
+  },
+  "login": {
+    "body": "Por favor use sus credenciales",
+    "header": "Iniciar sesión",
+    "primary_cta": "continuar",
+    "secondary_cta": "regístrate"
+  },
+  "profile": {
+    "edit_cta": "editar",
+    "message": "Bienvenido, {Nombre}!",
+    "settings_cta": "ajustes"
+  }
+}

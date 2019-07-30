@@ -1,0 +1,4 @@
+<!-- This is to work around bug in android "generateDebugBuildConfig" task looking for this package name.-->
+<manifest package="com.grosner.multiplatformexample">
+
+</manifest>
